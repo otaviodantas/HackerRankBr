@@ -1,3 +1,8 @@
+"""
+HackerRank - Algorithms - Implemation
+Angry Professor
+"""
+
 def angryProfessor(k, a):
     count = 0
     for i in a:
@@ -10,12 +15,3 @@ def angryProfessor(k, a):
     #     return 'NO'
     # else:
     #     return 'YES'
-
-
-list = [-93, -86, 49, -62, -90, -63, 40, 72, 11, 67]
-present = [x + 1 for x in list if x > 0]
-print(present)
-# if present >= k:
-#     print('YES')
-# else:
-#     print('NO')
