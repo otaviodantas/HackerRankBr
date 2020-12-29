@@ -3,5 +3,10 @@
 # **HackerRank BR** <img width="45px" src="https://imagepng.org/wp-content/uploads/2017/04/bandeira-do-brasil.png"/>
 
 
-Este repositório tem o intuito de reunir soluções para os problemas do site HackerRank, com a maior diversidade de linguagens possíveis. 
+Este repositório tem o intuito de reunir soluções para os problemas do site HackerRank, com a maior diversidade de linguagens possíveis.
 Para contribuir basta seguir o template base, procurar a pasta da sua linguagem preferida e fazer o pull request.
+
+- [Documentação](https://github.com/otaviodantas/HackerRankBr/blob/master/template)
+
+- Algoritmos
+  01. Implementação
