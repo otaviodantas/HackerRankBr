@@ -15,11 +15,3 @@ def countingValleys(steps, path):
             count_valley += 1
 
     return count_valley
-
-
-countingValleys(8, 'UDDDUDUU')
-
-
-__/\       __
-    \    /
-     \/\/
