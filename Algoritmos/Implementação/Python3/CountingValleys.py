@@ -1,7 +1,5 @@
-"""
-HackerRank - Algorithms - Implemation
-Counting Valleys
-"""
+# hackerrank.com/challenges/counting-valleys
+# score: 15
 
 
 def countingValleys(steps, path):

@@ -1,7 +1,6 @@
-"""
-HackerRank - Algorithms - Implemation
-Angry Professor
-"""
+# hackerrank.com/challenges/angry-professor
+# score: 20
+
 
 def angryProfessor(k, a):
     count = 0
@@ -9,10 +8,3 @@ def angryProfessor(k, a):
         if i < 1:
             count = 1
     return 'YES' if count < k else 'NO'
-
-
-    # present = len([x for x in a if x < 1])
-    # if present >= k:
-    #     return 'NO'
-    # else:
-    #     return 'YES'

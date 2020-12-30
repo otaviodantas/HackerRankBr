@@ -1,7 +1,5 @@
-"""
-HackerRank - Algorithms - Implemation
-Electronics Shop
-"""
+# hackerrank.com/challenges/electronics-shop
+# score: 10
 
 
 def getMoneySpent(keyboards, drives, s):

@@ -1,7 +1,6 @@
-"""
-HackerRank - Algorithms - Implemation
-Breaking the Records
-"""
+# hackerrank.com/challenges/breaking-best-and-worst-records
+# score: 10
+
 
 def breakingRecords(score):
     max_count = min_count = 0

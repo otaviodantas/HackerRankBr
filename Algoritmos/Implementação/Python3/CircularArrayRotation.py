@@ -1,7 +1,5 @@
-"""
-HackerRank - Algorithms - Implemation
-Circular Array Rotation
-"""
+# hackerrank.com/challenges/circular-array-rotation
+# score: 20
 
 
 def circularArrayRotation(a, k, queries):
@@ -10,14 +8,3 @@ def circularArrayRotation(a, k, queries):
     for q in queries:
         ans.append(a[(n - k + q) % n])
     return ans
-
-
-if __name__ == '__main__':
-    a = [1, 2, 3]
-    k = 2
-    queries = [0, 1, 2]
-    print(circularArrayRotation(a, k, queries))
-
-
-lista = [1, 2, 3]
-print(lista[-1 + 1])

@@ -1,7 +1,6 @@
-"""
-HackerRank - Algorithms - Implemation
-Divisible Sum Pairs
-"""
+# hackerrank.com/challenges/divisible-sum-pairs
+# score: 10
+
 
 def divisibleSumPairs(n, k, ar):
     count = 0

@@ -1,7 +1,5 @@
-"""
-HackerRank - Algorithms - Implemation
-Beautiful Days at the Movies
-"""
+# hackerrank.com/challenges/beautiful-days-at-the-movies
+# score: 15
 
 
 def beautifulDays(i, j, k):

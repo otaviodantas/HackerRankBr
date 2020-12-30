@@ -1,7 +1,6 @@
-"""
-HackerRank - Algorithms - Implemation
-Migratory Birds
-"""
+# hackerrank.com/challenges/migratory-birds
+# score: 10
+
 
 def migratoryBirds(arr):
     count = [0]*len(arr)

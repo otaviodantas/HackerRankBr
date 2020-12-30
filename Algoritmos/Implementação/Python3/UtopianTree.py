@@ -1,7 +1,6 @@
-"""
-HackerRank - Algorithms - Implemation
-Utopian Tree
-"""
+# hackerrank.com/challenges/utopian-tree
+# score: 20
+
 
 def utopianTree(n):
     if n < 3:

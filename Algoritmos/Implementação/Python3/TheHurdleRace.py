@@ -1,7 +1,6 @@
-"""
-HackerRank - Algorithms - Implemation
-The Herdle Race
-"""
+# hackerrank.com/challenges/the-hurdle-race
+# score: 10
+
 
 def hurdleRace(k, height):
     max_height = max(height)
@@ -9,7 +8,6 @@ def hurdleRace(k, height):
         return max_height - k
     else:
         return 0
-
 
 
 # Outra opção
