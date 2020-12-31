@@ -10,7 +10,8 @@ Para contribuir basta seguir o template base, procurar a pasta da sua linguagem 
 
 ## **Sumário**
 - Algoritmos
-  01. Implementação
+  01. [Implementação](https://github.com/otaviodantas/HackerRankBr/tree/master/Algoritmos/Implementa%C3%A7%C3%A3o)
+  02. [Ordenação](https://github.com/otaviodantas/HackerRankBr/tree/master/Algoritmos/Ordena%C3%A7%C3%A3o)
 
 
 O sumário será atualizado a medida que o repositório progredir.
